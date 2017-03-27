@@ -25,3 +25,12 @@ header, footer {
 hr {
   border-color: #70ad55;
 }
+
+input {
+  border-color: #6e8c62;
+}
+
+button {
+  background-color: #6e8c62;
+  border-color: #6e8c62;
+}
