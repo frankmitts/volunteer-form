@@ -34,3 +34,7 @@ button {
   background-color: #6e8c62;
   border-color: #6e8c62;
 }
+
+fieldset {
+  border-top: 0;
+}
